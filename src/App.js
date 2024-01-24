@@ -9,6 +9,7 @@ export default class App extends Component {
           <input type="text" placeholder="email" />
           <input type="pasword" placeholder="password" />
           <input type="submit" />
+          <input type="submit" />
         </div>
       </div>
     );
